@@ -1,2 +1,2 @@
 # GreenResolution
-Green resolution for tech hacks
+Green resolution for tech hack
